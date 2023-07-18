@@ -1,7 +1,7 @@
 body {
     text-align: center;
-    font-family: 'Arial';
-    font-size: 10px;
+    font-family: 'Cartograph CF';
+    font-size: 20px;
     color: #333;
     margin: 0;
     padding: 0;
@@ -16,5 +16,5 @@ body {
 }
 
 #container h1 {
-    font-size: 20px;
+    font-size: 25px;
 }
