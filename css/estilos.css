@@ -1,19 +1,23 @@
 body {
     text-align: center;
-    font-family: 'VictorMono Nerd Font Propo';
+    font-family: 'Fragment Mono';
     font-size: 10px;
     color: #333;
     margin: 0;
     padding: 0;
+    background-color: #e9edc9;
 }
 
 #cabecera {
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
     background: #33A;
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 10px;
+    display: flex;
+    align-items: center;
 }
 
 #cabecera #tagline {
@@ -27,9 +31,12 @@ body {
     padding: 1em;
     text-align: left;
     border: 1px solid #000;
+    border-radius: 10px;
     margin: 0 auto;
+    background-color: white;
 }
 
 #container h1 {
     font-size: 25px;
 }
+
